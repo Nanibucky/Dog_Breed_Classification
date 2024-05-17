@@ -1,4 +1,5 @@
 **Project Title: A Study on Dog Breed Classification: Transfer Learning vs. CNN**
+
 **Description**
 This project explores the effectiveness of transfer learning compared to a conventional Convolutional Neural Network (CNN) in classifying dog breeds. Utilizing the Stanford Dogs dataset, the study compares the performance of a model created from scratch against a transfer learning model using MobileNetV2.
 
